@@ -1,0 +1,19 @@
+{
+  "name": "fingerprint-handler",
+  "version": "1.0.0",
+  "description": "Packaged handler for getting the fingerprinted file names for static JavaScript files when you have an index route handler in your Architect based project.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristoferjoseph/fingerprint-handler.git"
+  },
+  "keywords": [],
+  "author": "kj <kj@begin.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kristoferjoseph/fingerprint-handler/issues"
+  },
+  "homepage": "https://github.com/kristoferjoseph/fingerprint-handler#readme"
+}
